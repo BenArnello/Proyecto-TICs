@@ -1,3 +1,3 @@
 # Proyecto-TICs
 
-Aqui se almacenara todos los avances en el mini-proyecto
+Aqui se almacenaran todos los avances en el mini-proyecto
